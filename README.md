@@ -1,6 +1,6 @@
 # cabservice
 
-The project contains the apis for cab service project
+The project contains the apis for cab service
 
 ## Installation
 
